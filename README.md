@@ -1,3 +1,3 @@
 # git-learning
 
-- pavan kumar
+- pavan kumar learning github
